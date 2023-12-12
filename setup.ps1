@@ -12,3 +12,4 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
     -administratorLoginPassword $adminPassword
 
 Read-Host -Prompt "Press [ENTER] to continue ..."
+
